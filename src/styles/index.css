@@ -112,7 +112,6 @@ text-align: left;
     display: flex;
     flex-direction: column;
     justify-content: space-around;
-    border-bottom: 0.1rem solid var(--very-dark-desaturated-blue);
 }
 
 .article__question article {
