@@ -94,13 +94,13 @@ color: var(--soft-red);
         width: 925px;
         align-items: center;
         justify-content: center;
-        padding: 40px;
     }
 .container__pictures img {
+    Clip-path: inset(0px 0px 0px 91px);
     margin-top: 60px;
     position: absolute;
     transform: translate(-368px, -250px);
-    width: 490px;
+    width: 400px;
 }
 article{
 margin-left: 110px;
@@ -112,13 +112,17 @@ text-align: left;
 }
 .article__question {
     display: flex;
+    flex-direction: column;
     justify-content: space-around;
     border-bottom: none;
+
 }
 .article__question article {
-    align-items: flex-end;
     text-align: right;
     gap: 10px;
-
+}
+.article__question p {
+    width: 250px;
+    margin-left: 110px;
 }
 }
