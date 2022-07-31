@@ -12,7 +12,7 @@ const [quests] = useState(questions)
   <div className='container'>
    <article className="container__pictures">
 <picture>
-  <source media="(min-width: 768px)" srcSet={desktop} />
+  <source media="(min-width: 768px)" srcSet={desktop}/>
  <img src={mobile} alt="image mobile" />
 </picture>
    </article>
