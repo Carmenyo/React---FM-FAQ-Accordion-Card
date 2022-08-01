@@ -32,6 +32,9 @@ body{
 }
 .container{
     position: relative;
+    background-image: url("../images/bg-pattern-mobile.svg");
+    background-repeat: no-repeat;
+    background-position:top;
     background-color: white;
     padding: 1.25rem;
     border-radius: 1rem;
@@ -88,6 +91,9 @@ color: var(--soft-red);
 
 @media (min-width: 768px){
     .container{
+        background-image: url("../images/bg-pattern-desktop.svg");
+        background-repeat: no-repeat;
+        background-position: -550px;
         display: flex;
         width: 925px;
         align-items: center;
@@ -98,7 +104,7 @@ color: var(--soft-red);
     margin-top: 60px;
     position: absolute;
     transform: translate(-368px, -250px);
-    width: 400px;
+    width: 500px;
 }
 article{
 margin-left: 110px;
