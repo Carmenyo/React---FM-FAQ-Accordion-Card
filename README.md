@@ -12,10 +12,12 @@ A responsive FAQ section for a website, developed using React, Sass, HTML, and C
 
 ## Technologies Used 🛠️
 
-- ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg) React: JavaScript library for building user interfaces.
-- ![Sass](https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg) Sass: CSS extension language with additional features.
-- ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg) HTML5: Markup language for structuring the web page.
-- ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg) CSS3: Styling language for design and presentation.
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> React: JavaScript library for building user interfaces.
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> Sass: CSS extension language with additional features.
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> HTML5: Markup language for structuring the web page.
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> JavaScript: Programming language for building dynamic websites.
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> CSS3: Styling language for design and presentation.
+
 
 ## Usage Instructions
 
